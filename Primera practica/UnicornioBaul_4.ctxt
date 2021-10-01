@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UnicornioBaul_4()
+comment1.params=
+comment1.target=java.lang.String\ consultaestadoBaul()
+comment2.params=nuevoNumero_Baul
+comment2.target=java.lang.String\ nuevoCodigoBaul(int)
+comment3.params=codigo_Baul
+comment3.target=java.lang.String\ insertecodigo(int)
+numComments=4

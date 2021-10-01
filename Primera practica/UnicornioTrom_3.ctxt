@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UnicornioTrom_3()
+comment1.params=
+comment1.target=java.lang.String\ consultaDinerienMaquina()
+comment2.params=cantidadFichas
+comment2.target=java.lang.String\ registrodeFichas(int)
+comment3.params=inseteNumero
+comment3.target=java.lang.String\ juegoalasar(int)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ m
+comment0.target=void\ verificarArray(int,\ int)
+comment1.params=n\ m
+comment1.target=int\ calcularTam(int,\ int)
+numComments=2

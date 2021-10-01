@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nombreCancion1\ nombreCancion2\ nombreCancion3
+comment0.target=RitmoCornio_5(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ reproducirCancion()
+comment2.params=
+comment2.target=java.lang.String\ pausarCancion()
+comment3.params=
+comment3.target=void\ cambiarCancion()
+comment4.params=
+comment4.target=java.lang.String\ consultarCancionActual()
+numComments=5

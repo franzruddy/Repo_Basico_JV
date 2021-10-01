@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CajaRegistradora_2()
+comment1.params=precio\ cantidad
+comment1.target=java.lang.String\ registrarPrecio(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ consultarTotal()
+comment3.params=dinero
+comment3.target=java.lang.String\ cobrar(int)
+numComments=4
